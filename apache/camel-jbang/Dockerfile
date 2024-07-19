@@ -1,0 +1,1 @@
+FROM apache/camel-jbang:4.4.0
